@@ -1,1 +1,1 @@
-# guesNumber
+https://lysoths.github.io/guesNumber/
