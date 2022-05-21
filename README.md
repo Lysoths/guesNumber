@@ -1,1 +1,1 @@
-https://lysoths.github.io/guesNumber/
+https://lysoths.github.io/guessNumber/
